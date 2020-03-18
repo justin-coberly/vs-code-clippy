@@ -1,11 +1,11 @@
 {
-  "name": "vs-code-clippy",
-  "displayName": "Clippy",
-  "description": "Clippy for VS Code",
+  "name": "vs-code-justin",
+  "displayName": "Clippy Justin",
+  "description": "Justin for VS Code",
   "version": "0.0.2",
-  "publisher": "fleshywaffles",
-  "repository": "https://github.com/walaura/vs-code-clippy",
-  "homepage": "https://github.com/walaura/vs-code-clippy",
+  "publisher": "justin-coberly",
+  "repository": "https://github.com/justin-coberly/vs-code-clippy",
+  "homepage": "https://github.com/justin-coberly/vs-code-clippy",
   "engines": {
     "vscode": "^1.34.0"
   },
